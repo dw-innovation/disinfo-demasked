@@ -9,7 +9,7 @@ Arabic-speaking world, while exploring the potential of AI and LLMs to unveil th
 underlying narrative. 
 
 ### Before executing the script
-Before being able to recreate the experiments, please request the require datasets via this [contact form](https://www.disinfo-demasked.com/#contact).
+To access the datasets, kindly submit a request on the disinfo-demasked website [contact form](https://www.disinfo-demasked.com/#contact).
 The files are in a ZIP archive labelled *"DD-dataset-for-github-repo.zip"*.
 
 Add the two database files into the folder "data". The file names should be:
